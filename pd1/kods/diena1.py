@@ -1,0 +1,1 @@
+print("stradaju no apakšmapes")
