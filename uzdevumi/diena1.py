@@ -1,1 +1,2 @@
-print("stradaju no apakšmapes")
+print("GitHub Copilot")
+print("Programēšana 1")

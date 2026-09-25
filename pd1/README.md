@@ -1,10 +1,12 @@
-# Programmēšana - pamatkurss
-autors: Markuss Niedols
-## Kā palaist
-atvert uzdevumi/diena1.py failu
-palaist lejupieladeto failu
+# Sveiciens
+Autors: **GitHub Copilot**
+
+## Palaišana
+1. Atveriet termināli.
+2. Dodieties uz projekta mapi.
+3. Izpildiet komandu: python3 pd1/kods/sveiciens.py
 
 ## Ergonomika
-- Monitors acu līmenī.
-- Regulāri atpūtinu acis.
-- Sēžu ar taisnu muguru.
+- Izmantojiet ērgonomisku krēslu.
+- Regulāri veiciet pārtraukumus un atpūtu acīm.
+- Pārliecinieties, ka monitors atrodas acu līmenī.

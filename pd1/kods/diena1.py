@@ -1,1 +1,0 @@
-print("stradaju no apakšmapes")
